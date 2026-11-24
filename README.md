@@ -6,6 +6,10 @@
 
 Eine Person, viele Ideen, jede Menge Code.
 
+> *EN: A personal playground account — experiments, forks and prototypes by Dirk Varnholt.
+> Everything finished and published lives under [Pikasso](https://github.com/pikasso-eu);
+> full project overview at [pikasso.eu.org](https://pikasso.eu.org).*
+
 Dieses Konto ist meine **persönliche Experimentierfläche**: Prototypen, Forks, technische
 Spielereien und die rohen ersten Versionen von Dingen, die später unter
 **[Pikasso](https://github.com/pikasso-eu)** das Licht der Welt erblicken.
